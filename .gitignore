@@ -1,0 +1,12 @@
+# Ignore MySQL Workbench temporary files and backups
+*.bak
+*.work
+*.mwb.bak
+
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore sensitive info (if you ever create a config file)
+config.php
+.env
