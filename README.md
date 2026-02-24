@@ -8,7 +8,6 @@ A relational database designed to manage a library's inventory, member registrat
 - **Scalability:** Indexed search columns for high-performance querying.
 
 ## 🗺️ Database Schema
-![Database Diagram](./diagram.png) *(Upload your Workbench PNG here!)*
 
 ## 🛠️ How to Use<img width="726" height="494" alt="db_schema_v1" src="https://github.com/user-attachments/assets/538d469e-e988-420e-9451-eff2f8917510" />
 
