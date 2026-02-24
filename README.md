@@ -9,8 +9,10 @@ A relational database designed to manage a library's inventory, member registrat
 
 ## 🗺️ Database Schema
 
-## 🛠️ How to Use<img width="726" height="494" alt="db_schema_v1" src="https://github.com/user-attachments/assets/538d469e-e988-420e-9451-eff2f8917510" />
+<img width="726" height="494" alt="db_schema_v1" src="https://github.com/user-attachments/assets/640bb5f7-e661-43b7-8418-cc18cf10bcb3" />
 
+
+## 🛠️ How to Use
 1. Run `schema.sql` to build the structure.
 2. Run `seed_data.sql` to populate sample data.
 3. Use the `active_loans` view to see current library status.
